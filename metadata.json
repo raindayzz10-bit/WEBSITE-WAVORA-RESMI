@@ -1,0 +1,6 @@
+{
+  "name": "Wavora Aquatic Academy",
+  "description": "Platform resmi Wavora Aquatic Academy (WOS v3) - Sekolah renang modern berstandar World Aquatics di Bandar Lampung (Pahoman & UNILA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
